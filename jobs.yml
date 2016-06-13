@@ -4,4 +4,4 @@ jobs:
     steps:
       - PUT: output-image
       - GET: input-image
-      - PUT: output2-image
+      #- PUT: output2-image
