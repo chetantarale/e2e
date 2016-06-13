@@ -3,4 +3,4 @@ jobs:
     type: manifest
     steps:
       - PUT: output-image
-      - GET: input-image
+      #- GET: input-image
